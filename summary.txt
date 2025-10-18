@@ -1,0 +1,2 @@
+# Ideas
+Use multi-stage build to separate dependencies
